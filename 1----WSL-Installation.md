@@ -23,7 +23,7 @@ In powershell enter:
 ```powershell
 winver
 ```
-![Windows build](images/winbuild.png)
+![Windows build](./images/winbuild.png)
 
 ---
 <br>
@@ -61,7 +61,7 @@ wsl --set-default-version 2
 Open the [Microsoft Store](https://aka.ms/wslstore) and select your favorite Linux distribution.
 <br>
 
-![Windows build](images/MSStore.png)
+![Windows build](./images/MSStore.png)
 
 <br>
 
@@ -96,4 +96,4 @@ wsl --set-version 2
 ---
 <br>
 
-## -> [Docker installation for Windows](2---Docker-installation-for-Windows.md)
+## -> [Docker installation for Windows](./2---Docker-installation-for-Windows.md)
